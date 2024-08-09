@@ -30,5 +30,6 @@ _________________________________
 
 # Warning!
 Smbios serial numbers have been removed from Config.plist:
-![PlatformInfo](https://github.com/user-attachments/assets/af01b6ce-f366-4dce-ba14-38ad629d4333)
+![PlatformInfo](https://github.com/user-attachments/assets/8737621c-39cc-4430-8997-d657643834f8)
+
 You need to make your own Smbios. It is convenient to do this using the [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
