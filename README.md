@@ -14,6 +14,7 @@ _________________________________
 # What works : 
 ```
 - Sound
+- Boot-chime
 - Sleep and wake
 - Ethernet/Bluetooth
 - Custom USB port mapping with USBToolBox
