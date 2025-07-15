@@ -32,6 +32,8 @@ Sometimes it needs 2-3x times to boot into system.
 Issue fixed by removing -v from boot-args
 ```
 _________________________________
+<img width="1330" height="1440" alt="Screenshot 2025-07-13 at 23 55 09" src="https://github.com/user-attachments/assets/e98cebbe-5996-43a4-baa5-69fc2e624d04" />
+
 ![IMac](https://github.com/user-attachments/assets/8a2d8313-bbd0-4f94-97f2-716029d3b6e0)
 ![collage](https://github.com/user-attachments/assets/cad557dd-deb8-4a3a-a849-c5802d8b2830)
 
