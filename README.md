@@ -1,5 +1,5 @@
 # GIGABYTE-Z590-GAMING-X-HACKINTOSH-OPENCORE
-Hackintosh settings for Gigabyte Z590 GAMING X (rev. 1.0) Sonoma OpenCore 1.0.0
+Hackintosh settings for Gigabyte Z590 GAMING X (rev. 1.0) Sequoia v.15.5 OpenCore 1.0.5
 _________________________________
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
