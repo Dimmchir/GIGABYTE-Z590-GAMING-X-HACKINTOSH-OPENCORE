@@ -26,7 +26,7 @@ Wi-Fi not working with PCIe Wi-Fi Fenvi T919
 ```
 # Bugs : 
 ```
-AMD (Navi) Cards had issue when booting using -v (verbose) boot-args,
+AMD (Navi 23) Graphics Cards had issue when booting using -v (verbose) boot-args,
 you will face restart / black screen right after the verbose finished.
 Sometimes it needs 2-3x times to boot into system.
 Issue fixed by removing -v from boot-args
